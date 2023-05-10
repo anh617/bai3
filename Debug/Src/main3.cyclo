@@ -1,0 +1,7 @@
+main3.c:48:5:main	2
+main3.c:77:6:AppInitCommon	1
+main3.c:96:6:LedControl_SetStatus	3
+main3.c:118:9:ButtonRead_Status	1
+main3.c:136:6:Delay	3
+main3.c:152:6:Led_Init	1
+main3.c:186:6:Button_Init	1
